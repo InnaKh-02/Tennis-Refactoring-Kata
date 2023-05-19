@@ -1,4 +1,4 @@
-#include <string>
+#include "tennis.h"
 
 const std::string p1N = "player1";
 const std::string p2N = "player2";
